@@ -14,6 +14,8 @@ Switch to your project's directory:
 $ cd updateAttributesDemo
 ```
 
+Go to `server/datasource.json` and update your mongodb server credentials accordingly.
+
 Start your server
 
 ```
